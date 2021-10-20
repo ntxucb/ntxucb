@@ -9,6 +9,8 @@
 
 ### In Progress:
 
+### Achievements:
+
 ### Contact Us:
 [Instagram: NeurotechX UCB](https://www.facebook.com/ntxucb) 
 
