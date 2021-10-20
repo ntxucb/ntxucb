@@ -1,6 +1,6 @@
 # Welcome to NeurotechUCB's Official Github!
 
-![Github_Logo_first (8)](https://user-images.githubusercontent.com/41300679/138172421-538fef82-2c44-46c5-92ff-4affc4e79687.gif)
+![Github_Logo_first (2)](https://user-images.githubusercontent.com/41300679/138175372-926118c3-c6b3-451e-90af-d7f2314f38cd.gif)
 
 ## List of Projects:
 ### Done:
