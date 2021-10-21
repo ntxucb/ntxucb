@@ -4,6 +4,7 @@
 
 ## List of Projects:
 ### Done:
+:open_hands::open_hands::open_hands:
 - Kaggle Contest/LearnPlatform COVID-19 Impact on Digital Learning
 - BR41N.IO Hackaton/SSVEP Data Analysis/Team Ch'aki UWU
 
