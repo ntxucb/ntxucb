@@ -12,7 +12,7 @@
 ### Achievements:
 
 ### Contact Us:
-[Instagram: NeuroTechUCB](https://www.facebook.com/ntxucb) 
+:watch: [Instagram: NeuroTechUCB](https://www.facebook.com/ntxucb) 
 
 [Facebook: NeuroTechUCB](https://www.instagram.com/neurotechucb/)
 
