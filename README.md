@@ -18,7 +18,7 @@
 
 [Youtube: NeuroTechUCB](https://www.youtube.com/channel/UCCg2IzkjD42ztbj930w8_kQ)
 
-*Death to Matlab, We believe in Python Supremacy*
+*Death to Matlab, We believe in Python Supremacy.*
 <!--
 **ntxucb/ntxucb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
