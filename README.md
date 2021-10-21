@@ -12,11 +12,11 @@
 ### Achievements:
 
 ### Contact Us:
-[Instagram: NeurotechX UCB](https://www.facebook.com/ntxucb) 
+[Instagram: NeuroTechUCB](https://www.facebook.com/ntxucb) 
 
-[Facebook: neurotechucb](https://www.instagram.com/neurotechucb/)
+[Facebook: NeuroTechUCB](https://www.instagram.com/neurotechucb/)
 
-[Youtube: NeurotechUCB](https://www.youtube.com/channel/UCCg2IzkjD42ztbj930w8_kQ)
+[Youtube: NeuroTechUCB](https://www.youtube.com/channel/UCCg2IzkjD42ztbj930w8_kQ)
 
 *Death to Matlab, We believe in Python Supremacy*
 <!--
