@@ -5,7 +5,7 @@
 ## List of Projects:
 ### Done:
 
-- Kaggle Contest/LearnPlatform COVID-19 Impact on Digital Learning
+- ![Kaggle Contest/LearnPlatform COVID-19 Impact on Digital Learning](https://github.com/ntxucb/LearnPlatform_COVID_19_Impact_on_Digital_Learning)
 - BR41N.IO Hackaton/SSVEP Data Analysis/Team Ch'aki UWU
 
 ### In Progress:
